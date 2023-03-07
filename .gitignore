@@ -22,3 +22,5 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 tipos-variaveis/Tipos-Variaveis/.vscode/settings.json
+tipos-variaveis/Tipos-Variaveis/bin/Operadores/.vscode/settings.json
+tipos-variaveis/Tipos-Variaveis/src/Operadores/.vscode/settings.json
